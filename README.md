@@ -1,1 +1,1 @@
-# Spring Boot Recipe Application
+## Continuos integration implemented by CircleCI
