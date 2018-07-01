@@ -1,1 +1,1 @@
-## Continuos integration implemented by CircleCI
+## Continuous integration implemented by CircleCI
